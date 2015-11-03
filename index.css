@@ -1,0 +1,26 @@
+#page-title {
+  text-align: center;
+  color: red;
+}
+
+body {
+  background-color: yellow;
+  cursor: wait;
+}
+
+#my-life {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.life-elem {
+  color: blue;
+  padding: 10px;
+}
+
+.life-elem:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
